@@ -27,30 +27,83 @@ title: Home
 
 <!-- PLACEHOLDER: Write your bio here. 2-3 paragraphs about your research interests, current position, and background. -->
 
-I am a PhD student in the Department of Computer Science at [University Name]. My research interests include **topic one**, **topic two**, and **topic three**.
+I am a PhD candidate in the Bioinformatics and Integrative Genomics (BIG) program through the Department of Biomedical Informatics (DBMI) at Harvard Medical School. I am fortunate to be advised by Dr. Fei Chen, who is a core faculty member at the Broad Institute.
 
-Previously, I received my B.S. in Computer Science from [University Name] in [Year].
+My research is focused on using machine learning to uncover fundamental principles of how cells process information to achieve structured organization. Compared to other domains such as natural images and language, biological data is expensive to collect and often exhibits low signal-to-noise ratios. My research is therefore driven by a philosophy of building scalable model architectures that reflect biologically meaningful inductive biases. I have previously worked on self-supervised representation learning methods for spatial transcriptomics, and I am currently working on generative models for biological imaging data.
 
-## Papers
+Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins University in 2021. I am a recipient of the National Science Foundation Graduate Research Fellowship Program (GRFP). During Summer 2025, I was a Research Intern on the BioML team at Microsoft Research New England, where I worked with Dr. Alex Lu. 
 
-<!-- PLACEHOLDER: Add your papers below. Copy the template for each new paper. -->
+## Papers (selected)
 
 <div class="paper-entry">
   <div class="paper-title">
-    <!-- PLACEHOLDER: Paper title -->
-    <a href="#">Paper Title Here</a>
+    <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">TissueMosaic: Self-supervised learning of tissue representations enables differential spatial transcriptomics across samples</a>
   </div>
   <div class="paper-authors">
-    <!-- PLACEHOLDER: Author list (bold your name) -->
-    <strong>S. Kambhampati</strong>, Author Two, Author Three
+    <strong>S. Kambhampati</strong>, L. D'Alessio, F. Grab, S. Fleming, S. Liu, R. Raichur, F. Chen#, M. Babadi#
   </div>
   <div class="paper-venue">
-    <!-- PLACEHOLDER: Venue and year -->
-    Conference Name, 2025
+    Cell Systems, 2025. Presented at RECOMB 2025
   </div>
   <div class="paper-links">
-    <a href="#">[PDF]</a>
-    <a href="#">[Code]</a>
+    <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">[Paper]</a>
+    <a href="https://github.com/broadinstitute/TissueMosaic">[Code]</a>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
+    <a href="https://www.nature.com/articles/s41586-023-06837-4">Slide-tags enables single-nucleus barcoding for multimodal spatial genomics</a>
+  </div>
+  <div class="paper-authors">
+    A.J.C. Russell*, J.A. Weir*, N.M. Nadaf*, M. Shabet, V. Kumar, <strong>S. Kambhampati</strong>, ..., E.Z. Macosko#, F. Chen#
+  </div>
+  <div class="paper-venue">
+    Nature, 2024
+  </div>
+  <div class="paper-links">
+    <a href="https://www.nature.com/articles/s41586-023-06837-4">[Paper]</a>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
+    <a href="https://www.liebertpub.com/doi/10.1089/cmb.2021.0349">Cross-Organ Transcriptomic Comparison Reveals Universal Factors During Maturation</a>
+  </div>
+  <div class="paper-authors">
+    <strong>S. Kambhampati</strong>, S. Murphy, H. Uosaki, C. Kwon
+  </div>
+  <div class="paper-venue">
+    Journal of Computational Biology, 2022
+  </div>
+  <div class="paper-links">
+    <a href="https://www.liebertpub.com/doi/10.1089/cmb.2021.0349">[Paper]</a>
+  </div>
+</div>
+
+## Manuscripts in Preparation
+
+<div class="paper-entry">
+  <div class="paper-title">
+    Latent Dynamical Systems Learn Rules Generating Spatial Transcriptomics
+  </div>
+  <div class="paper-authors">
+    S. Bhate*, <strong>S. Kambhampati*</strong>, M. Babadi, F. Chen#, C. Uhler#
+  </div>
+  <div class="paper-venue">
+    Submitted to ICLR GEN2 Workshop, 2026
+  </div>
+  <div class="paper-links">
+    <a href="https://github.com/broadinstitute/latent-dynamical-systems">[Code]</a>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
+    Vermeer: Autoregressive Modeling Enables In Silico Generation of Fluorescent Microscopy Data
+  </div>
+  <div class="paper-authors">
+    <strong>S. Kambhampati</strong>, E. Hayir, E. Zimmermann, K. Yang, F. Chen#, A. Lu#
   </div>
 </div>
 
