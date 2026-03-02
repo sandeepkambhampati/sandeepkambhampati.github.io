@@ -1,0 +1,52 @@
+# ============================================================
+# Site Settings
+# ============================================================
+
+# Your full name (displayed in header and page title)
+title: "Sandeep Kambhampati"
+
+# A short tagline or role description
+description: "PhD Student, Department of Computer Science"
+
+# Your site URL (no trailing slash)
+url: "https://sandeepkambhampati.github.io"
+baseurl: ""
+
+# ============================================================
+# Social & Academic Links
+# Edit these values — they power the icon links on the homepage
+# ============================================================
+
+# Your email address
+email: "your.email@university.edu"
+
+# Google Scholar profile URL
+scholar_url: "https://scholar.google.com/citations?user=YOUR_ID"
+
+# ORCID profile URL
+orcid_url: "https://orcid.org/0000-0000-0000-0000"
+
+# Twitter / X profile URL
+twitter_url: "https://twitter.com/your_handle"
+
+# GitHub username (used by minima for the GitHub icon)
+github_username: "sandeepkambhampati"
+
+# Path to your CV PDF (relative to site root)
+cv_path: "/files/cv.pdf"
+
+# ============================================================
+# Build Settings
+# ============================================================
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
