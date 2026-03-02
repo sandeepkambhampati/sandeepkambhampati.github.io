@@ -14,8 +14,9 @@ title: Home
   <a href="{{ site.scholar_url }}" title="Google Scholar"><i class="ai ai-google-scholar ai-lg"></i></a>
   <a href="{{ site.orcid_url }}" title="ORCID"><i class="ai ai-orcid ai-lg"></i></a>
   <a href="{{ site.cv_path | relative_url }}" title="CV"><i class="ai ai-cv ai-lg"></i></a>
-  <a href="{{ site.twitter_url }}" title="Twitter"><i class="fab fa-twitter"></i></a>
+  <a href="{{ site.twitter_url }}" title="X"><i class="fab fa-x-twitter"></i></a>
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/sandeep-kambhampati-4b7726162/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
   <a href="mailto:{{ site.email }}" title="Email"><i class="fas fa-envelope"></i></a>
 </div>
 
@@ -71,7 +72,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <a href="https://www.liebertpub.com/doi/10.1089/cmb.2021.0349">Cross-Organ Transcriptomic Comparison Reveals Universal Factors During Maturation</a>
   </div>
   <div class="paper-authors">
-    <strong>S. Kambhampati</strong>, S. Murphy, H. Uosaki, C. Kwon
+    <strong>S. Kambhampati*</strong>, S. Murphy*, H. Uosaki, C. Kwon
   </div>
   <div class="paper-venue">
     Journal of Computational Biology, 2022
