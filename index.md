@@ -43,7 +43,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <strong>S. Kambhampati</strong>, L. D'Alessio, F. Grab, S. Fleming, S. Liu, R. Raichur, F. Chen#, M. Babadi#
   </div>
   <div class="paper-venue">
-    Cell Systems, 2025. Presented at RECOMB 2025
+    Cell Systems, 2025. Presented at RECOMB 2025, <a href="https://www.youtube.com/watch?v=70cF-_COWx4">2025 EWSC Symposia</a>, and 2024 Keystone Symposia
   </div>
   <div class="paper-links">
     <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">[Paper]</a>
