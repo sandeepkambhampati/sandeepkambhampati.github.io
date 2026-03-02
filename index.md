@@ -107,20 +107,6 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
   </div>
 </div>
 
-## Projects
-
-<!-- PLACEHOLDER: Add your projects below. Copy the template for each new project. -->
-
-<div class="project-entry">
-  <div class="project-title">
-    <!-- PLACEHOLDER: Project title -->
-    <a href="#">Project Title Here</a>
-  </div>
-  <div class="project-description">
-    <!-- PLACEHOLDER: Brief project description (1-2 sentences) -->
-    A brief description of the project and its goals.
-  </div>
-</div>
 
 </div>
 
