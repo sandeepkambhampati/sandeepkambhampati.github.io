@@ -31,7 +31,7 @@ I am a 5th year PhD candidate in the [Bioinformatics and Integrative Genomics (B
 
 My research is focused on using machine learning to uncover fundamental principles of how cells process information to achieve structured organization. Compared to other domains such as natural images and language, biological data is expensive to collect and often exhibits low signal-to-noise ratios. My research is therefore driven by a philosophy of building scalable model architectures that reflect biologically meaningful inductive biases.
 
-Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins University in 2021. I am a recipient of the National Science Foundation Graduate Research Fellowship Program (GRFP) in 2022. During Summer 2025, I was a Research Intern on the BioML team at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/), where I worked with [Dr. Alex Lu](https://www.alexluresearch.com/). 
+Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins University in 2021. I am a recipient of the National Science Foundation Graduate Research Fellowship Program (GRFP). During Summer 2025, I was a Research Intern on the BioML team at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/), where I worked with [Dr. Alex Lu](https://www.alexluresearch.com/). 
 
 ## Papers (selected)
 
