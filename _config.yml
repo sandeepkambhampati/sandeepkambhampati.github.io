@@ -42,6 +42,7 @@ cv_path: "/files/cv.pdf"
 theme: minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 markdown: kramdown
 
