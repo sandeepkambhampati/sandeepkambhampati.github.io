@@ -12,7 +12,6 @@ title: Home
 
 <div class="icon-row">
   <a href="{{ site.scholar_url }}" title="Google Scholar"><i class="ai ai-google-scholar ai-lg"></i></a>
-  <a href="{{ site.orcid_url }}" title="ORCID"><i class="ai ai-orcid ai-lg"></i></a>
   <a href="{{ site.cv_path | relative_url }}" title="CV"><i class="ai ai-cv ai-lg"></i></a>
   <a href="{{ site.twitter_url }}" title="X"><i class="fab fa-x-twitter"></i></a>
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
