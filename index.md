@@ -37,6 +37,22 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
 
 <div class="paper-entry">
   <div class="paper-title">
+    <a href="https://openreview.net/attachment?id=BM4SEEUJwi&name=pdf">DALI Learns Rules Generating Spatiotemporal Transcriptomics</a>
+  </div>
+  <div class="paper-authors">
+    S. Bhate*, <strong>S. Kambhampati*</strong>, M. Babadi, F. Chen#, C. Uhler#
+  </div>
+  <div class="paper-venue">
+    ICLR Generative AI in Genomics (GEN2) Workshop, 2026
+  </div>
+  <div class="paper-links">
+    <a href="https://openreview.net/attachment?id=BM4SEEUJwi&name=pdf">[Paper]</a>
+    <a href="https://github.com/broadinstitute/latent-dynamical-systems">[Code]</a>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
     <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">TissueMosaic: Self-supervised learning of tissue representations enables differential spatial transcriptomics across samples</a>
   </div>
   <div class="paper-authors">
@@ -82,21 +98,6 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
 </div>
 
 ## Manuscripts in Preparation
-
-<div class="paper-entry">
-  <div class="paper-title">
-    DALI Learns Rules Generating Spatiotemporal Transcriptomics
-  </div>
-  <div class="paper-authors">
-    S. Bhate*, <strong>S. Kambhampati*</strong>, M. Babadi, F. Chen#, C. Uhler#
-  </div>
-  <div class="paper-venue">
-    Submitted to ICLR GEN2 Workshop, 2026
-  </div>
-  <div class="paper-links">
-    <a href="https://github.com/broadinstitute/latent-dynamical-systems">[Code]</a>
-  </div>
-</div>
 
 <div class="paper-entry">
   <div class="paper-title">
