@@ -33,6 +33,21 @@ My research is focused on using computer vision and machine learning to study "s
 
 Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins University in 2021. I am a recipient of the National Science Foundation Graduate Research Fellowship Program (GRFP). I am also affiliated with the [Cellarium Lab](https://cellarium.ai/) at the Broad Institute, where I worked with Dr. Mehrtash Babadi from 2022-2025. During Summer 2025, I was a Research Intern on the BioML team at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/), where I worked with [Dr. Alex Lu](https://www.alexluresearch.com/). 
 
+## Manuscripts in Preparation
+
+<div class="paper-entry">
+  <div class="paper-title">
+    <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">Vermeer: Autoregressive Modeling Enables In Silico Generation of Fluorescent Microscopy Data</a>
+  </div>
+  <div class="paper-authors">
+    <strong>S. Kambhampati</strong>, E. Hayir, E. Zimmermann, K. Yang, F. Chen#, A. Lu#
+  </div>
+  <div class="paper-links">
+    <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">[Preprint]</a>
+    <a href="https://github.com/microsoft/Vermeer">[Code]</a>
+  </div>
+</div>
+
 ## Papers (selected)
 
 <div class="paper-entry">
@@ -96,18 +111,6 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <a href="https://www.liebertpub.com/doi/10.1089/cmb.2021.0349">[Paper]</a>
   </div>
 </div>
-
-## Manuscripts in Preparation
-
-<div class="paper-entry">
-  <div class="paper-title">
-    Vermeer: Autoregressive Modeling Enables In Silico Generation of Fluorescent Microscopy Data
-  </div>
-  <div class="paper-authors">
-    <strong>S. Kambhampati</strong>, E. Hayir, E. Zimmermann, K. Yang, F. Chen#, A. Lu#
-  </div>
-</div>
-
 
 </div>
 
