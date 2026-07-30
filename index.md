@@ -33,14 +33,17 @@ My research is focused on using computer vision and machine learning to study "s
 
 Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins University in 2021. I am a recipient of the National Science Foundation Graduate Research Fellowship Program (GRFP). I am also affiliated with the [Cellarium Lab](https://cellarium.ai/) at the Broad Institute, where I worked with Dr. Mehrtash Babadi from 2022-2025. During Summer 2025, I was a Research Intern on the BioML team at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/), where I worked with [Dr. Alex Lu](https://www.alexluresearch.com/). 
 
-## Manuscripts in Preparation
+## Papers (selected)
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">Vermeer: Autoregressive Modeling Enables In Silico Generation of Fluorescent Microscopy Data</a>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">Vermeer: Autoregressive generative modeling of microscopy predicts protein localization</a>
   </div>
   <div class="paper-authors">
-    <strong>S. Kambhampati</strong>, E. Hayir, E. Zimmermann, K. Yang, F. Chen#, A. Lu#
+    <strong>Sandeep Kambhampati</strong>, Eric Zimmermann, Emre Hayir, Kevin K. Yang, Fei Chen#, Alex X. Lu#
+  </div>
+  <div class="paper-venue">
+    bioRxiv, 2026
   </div>
   <div class="paper-links">
     <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">[Preprint]</a>
@@ -48,14 +51,12 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
   </div>
 </div>
 
-## Papers (selected)
-
 <div class="paper-entry">
   <div class="paper-title">
     <a href="https://openreview.net/attachment?id=BM4SEEUJwi&name=pdf">DALI Learns Rules Generating Spatiotemporal Transcriptomics</a>
   </div>
   <div class="paper-authors">
-    S. Bhate*, <strong>S. Kambhampati*</strong>, M. Babadi, F. Chen#, C. Uhler#
+    Salil S. Bhate*, <strong>Sandeep Kambhampati*</strong>, Mehrtash Babadi, Fei Chen#, Caroline Uhler#
   </div>
   <div class="paper-venue">
     ICLR Workshop on Generative AI in Genomics (GEN2), 2026
@@ -71,7 +72,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">TissueMosaic: Self-supervised learning of tissue representations enables differential spatial transcriptomics across samples</a>
   </div>
   <div class="paper-authors">
-    <strong>S. Kambhampati</strong>, L. D'Alessio, F. Grab, S. Fleming, S. Liu, R. Raichur, F. Chen#, M. Babadi#
+    <strong>Sandeep Kambhampati</strong>, Luca D'Alessio, Fedor Grab, Stephen Fleming, Sophia Liu, Ruth Raichur, Fei Chen#, Mehrtash Babadi#
   </div>
   <div class="paper-venue">
     Cell Systems, 2025. Oral Presentations at RECOMB 2025, <a href="https://www.youtube.com/watch?v=70cF-_COWx4">2025 EWSC Symposia</a>, and 2024 Keystone Symposia
@@ -87,7 +88,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <a href="https://www.nature.com/articles/s41586-023-06837-4">Slide-tags enables single-nucleus barcoding for multimodal spatial genomics</a>
   </div>
   <div class="paper-authors">
-    A.J.C. Russell*, J.A. Weir*, N.M. Nadaf*, M. Shabet, V. Kumar, <strong>S. Kambhampati</strong>, ..., E.Z. Macosko#, F. Chen#
+    Andrew J. C. Russell*, Jackson A. Weir*, Naeem M. Nadaf*, Matthew Shabet, Vipin Kumar, <strong>Sandeep Kambhampati</strong>, ..., Evan Z. Macosko#, Fei Chen#
   </div>
   <div class="paper-venue">
     Nature, 2024
@@ -102,7 +103,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <a href="https://www.liebertpub.com/doi/10.1089/cmb.2021.0349">Cross-Organ Transcriptomic Comparison Reveals Universal Factors During Maturation</a>
   </div>
   <div class="paper-authors">
-    <strong>S. Kambhampati*</strong>, S. Murphy*, H. Uosaki, C. Kwon
+    <strong>Sandeep Kambhampati*</strong>, Sean Murphy*, Hideki Uosaki, Chulan Kwon
   </div>
   <div class="paper-venue">
     Journal of Computational Biology, 2022
