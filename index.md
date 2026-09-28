@@ -27,7 +27,7 @@ title: Home
 
 <!-- PLACEHOLDER: Write your bio here. 2-3 paragraphs about your research interests, current position, and background. -->
 
-I am a 5th year PhD candidate in the [Bioinformatics and Integrative Genomics (BIG)](https://bmiphd.hms.harvard.edu//) program through the [Department of Biomedical Informatics (DBMI)](https://dbmi.hms.harvard.edu/) at Harvard Medical School. I am fortunate to be advised by [Dr. Fei Chen](https://www.insitubiology.org/), who is a core institute member at the [Broad Institute](https://www.broadinstitute.org/).
+I am a sixth year graduate student in the [Bioinformatics and Integrative Genomics (BIG)](https://bmiphd.hms.harvard.edu//) program through the [Department of Biomedical Informatics (DBMI)](https://dbmi.hms.harvard.edu/) at Harvard Medical School. I am fortunate to be advised by [Dr. Fei Chen](https://www.insitubiology.org/), who is a core institute member at the [Broad Institute](https://www.broadinstitute.org/).
 
 My research is focused on using computer vision and machine learning to study "spatial biology" i.e. the study of molecules and cells in their native spatial context. I am particularly interested in understanding how cells process information to achieve structured spatial organization and how this organization is disrupted in disease. Compared to other domains such as natural images and language, biological data is expensive to collect and often exhibits low signal-to-noise ratios. My research is therefore driven by a philosophy of building scalable, data-efficient model architectures that reflect biologically meaningful inductive biases.
 
@@ -43,7 +43,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <strong>Sandeep Kambhampati</strong>, Eric Zimmermann, Emre Hayir, Kevin K. Yang, Fei Chen#, Alex X. Lu#
   </div>
   <div class="paper-venue">
-    bioRxiv, 2026
+    Advances in Neural Information Processing Systems (NeurIPS), 2026
   </div>
   <div class="paper-links">
     <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">[Preprint]</a>
