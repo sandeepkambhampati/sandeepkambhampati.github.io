@@ -49,6 +49,7 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
     <a href="https://www.biorxiv.org/content/10.64898/2026.06.01.729395v1">[Preprint]</a>
     <a href="https://github.com/microsoft/Vermeer">[Code]</a>
   </div>
+  <img class="paper-figure" src="{{ '/images/vermeer.gif' | relative_url }}" alt="Vermeer generating images of an unseen protein, with attention maps" loading="lazy">
 </div>
 
 <div class="paper-entry">
@@ -67,19 +68,22 @@ Previously, I received my B.S. in Biomedical Engineering from Johns Hopkins Univ
   </div>
 </div>
 
-<div class="paper-entry">
-  <div class="paper-title">
-    <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">TissueMosaic: Self-supervised learning of tissue representations enables differential spatial transcriptomics across samples</a>
-  </div>
-  <div class="paper-authors">
-    <strong>Sandeep Kambhampati</strong>, Luca D'Alessio, Fedor Grab, Stephen Fleming, Sophia Liu, Ruth Raichur, Fei Chen#, Mehrtash Babadi#
-  </div>
-  <div class="paper-venue">
-    Cell Systems, 2025. Oral Presentations at RECOMB 2025, <a href="https://www.youtube.com/watch?v=70cF-_COWx4">2025 EWSC Symposia</a>, and 2024 Keystone Symposia
-  </div>
-  <div class="paper-links">
-    <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">[Paper]</a>
-    <a href="https://github.com/broadinstitute/TissueMosaic">[Code]</a>
+<div class="paper-entry paper-with-thumb">
+  <img class="paper-thumb" src="{{ '/images/tissuemosaic_schematic.png' | relative_url }}" alt="TissueMosaic schematic" loading="lazy">
+  <div class="paper-text">
+    <div class="paper-title">
+      <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">TissueMosaic: Self-supervised learning of tissue representations enables differential spatial transcriptomics across samples</a>
+    </div>
+    <div class="paper-authors">
+      <strong>Sandeep Kambhampati</strong>, Luca D'Alessio, Fedor Grab, Stephen Fleming, Sophia Liu, Ruth Raichur, Fei Chen#, Mehrtash Babadi#
+    </div>
+    <div class="paper-venue">
+      Cell Systems, 2025. Oral Presentations at RECOMB 2025, <a href="https://www.youtube.com/watch?v=70cF-_COWx4">2025 EWSC Symposia</a>, and 2024 Keystone Symposia
+    </div>
+    <div class="paper-links">
+      <a href="https://www.cell.com/cell-systems/abstract/S2405-4712(25)00227-3">[Paper]</a>
+      <a href="https://github.com/broadinstitute/TissueMosaic">[Code]</a>
+    </div>
   </div>
 </div>
 

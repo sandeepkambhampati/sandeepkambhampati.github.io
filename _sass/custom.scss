@@ -201,3 +201,45 @@ a {
   font-size: 0.95rem;
   color: $muted;
 }
+
+// ============================================================
+// Paper figures (schematics / GIFs under an entry)
+// ============================================================
+.paper-figure {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+
+// Paper entry with a small figure to the left of the text
+.paper-with-thumb {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.paper-thumb {
+  flex: 0 0 140px;
+  width: 140px;
+  height: auto;
+  border-radius: 6px;
+}
+
+.paper-text {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 680px) {
+  .paper-with-thumb {
+    flex-direction: column;
+  }
+
+  .paper-thumb {
+    flex-basis: auto;
+    width: 100%;
+    max-width: 320px;
+  }
+}
